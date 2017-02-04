@@ -1,6 +1,6 @@
 # Introduction to Webpack Dev Server
 
-[![Webpack Logo](https://sub1.kevinchisholm.com/blog/images/webpack-logo.png)](http://blog.kevinchisholm.com/?s=webpack)
+[![Webpack Logo](https://sub1.kevinchisholm.com/blog/images/webpack-logo-small.png)](http://blog.kevinchisholm.com/?s=webpack)
 
 ## Dependencies
 
