@@ -1,0 +1,17 @@
+{
+  "name": "introduction-to-webpack-dev-server",
+  "version": "1.0.0",
+  "description": "Introduction to Webpack Dev Server",
+  "author": "Kevin Chisholm",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1",
+    "jquery" : "3.1.1",
+    "to-capital-case": "1.0.0",
+    "pretty-ms" : "2.1.0"
+  }
+}
